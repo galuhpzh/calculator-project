@@ -16,7 +16,6 @@ This repository contains one of my projects built as part of the [freeCodeCamp](
 
 ## 🎯 What I Learned
 - Improved my understanding of responsive design
-- Practiced form validation with JavaScript
 - Learned to use Flexbox/Grid effectively
 
 ## 📬 Contact
